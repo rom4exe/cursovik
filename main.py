@@ -61,9 +61,7 @@ class YaUploaderVK:
         return tojson
 
 
-acc_token = 'vk1.a.TquOUMe6rGs3BTHpeJ1X6AHrrddGb-r04uz05wi_lY18iyF646QPftMCdzl3WDn46' \
-            'Goz_b0v5_7MyYNF0D1UUvx1Y6DfX6exXWAjH0Dh69GGUBsUv4Q60XCTNrfFiftDjc7KoSoWU' \
-            '7ZGHdVVLPvWCoAacq-15M1QmBxgkLI29XdhY1ptXvC01s2VwH9wVN0U7dxYMLh8fOxvcrX0n1G0og'
+acc_token = ''
 user_id = '316661918'
 ya_token = ""
 
